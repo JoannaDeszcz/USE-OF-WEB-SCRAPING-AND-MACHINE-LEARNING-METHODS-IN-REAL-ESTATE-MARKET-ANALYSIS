@@ -8,6 +8,6 @@ Special attention was given to comparing clustering methods to determine the mos
 Additionally, the performance of two predictive models—linear regression and decision tree regression—was evaluated. 
 The goal was to identify the best tool for predicting real estate prices in the analyzed area.
 
-The data used for the analysis was collected from the OLC portal through web scraping, reflecting the market situation as of December 13, 2023.
+The data used for the analysis was collected from the OLX portal through web scraping, reflecting the market situation as of December 13, 2023.
 
 This approach enabled a comprehensive understanding of the real estate market in Katowice and provided valuable information for individuals interested in its dynamics.
